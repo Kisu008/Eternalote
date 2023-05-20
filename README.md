@@ -17,5 +17,5 @@ This project is licensed under the [MIT License](LICENSE). Please review the lic
 ## Acknowledgements
 
 - Background picture designed by [Freepik](https://www.freepik.com).
-- Audio provided by [Tenmon](https://en.m.wikipedia.org/wiki/Tenmon_(composer)).
+- Audio provided by [CoMix Wave Films](https://en.m.wikipedia.org/wiki/CoMix_Wave_Films).
 
