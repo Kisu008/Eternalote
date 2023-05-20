@@ -25,3 +25,6 @@ a.out
 *.aac
 *.ogg
 
+# Ignore Replit files
+.replit
+replit.nix
