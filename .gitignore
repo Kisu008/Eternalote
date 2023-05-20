@@ -10,3 +10,18 @@ a.out
 
 # Add in special Atari 7800-based binaries for good measure
 *.a78
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Ignore audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+
