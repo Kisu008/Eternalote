@@ -14,4 +14,8 @@ This repository is intended for personal use and serves as a digital keepsake. A
 
 This project is licensed under the [MIT License](LICENSE). Please review the license file for more information.
 
+## Acknowledgements
+
+- Background picture designed by [Freepik](https://www.freepik.com).
+- Audio provided by [@youronlyjen](https://www.tiktok.com/@youronlyjen) on TikTok.
 
