@@ -1,0 +1,42 @@
+/* CSS for fading words */
+.word {
+  opacity: 0;
+  animation: fade-in 4s;
+  animation-delay: 1s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Background image designed by Freepik */
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* CSS for audio control */
+.audio-control {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  z-index: 9999;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+  /* Adjust styles for smaller screens */
+  .word {
+    font-size: 20px;
+  }
+}
